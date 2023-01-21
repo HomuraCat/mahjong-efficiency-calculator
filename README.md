@@ -6,7 +6,7 @@ An Alfred workflows based on [tenhou mahjong efficiency calculator](https://tenh
 
 <img width="611" alt="image" src="https://user-images.githubusercontent.com/42023141/213871592-681d5015-dc30-4cfb-bc98-2b5802e533ad.png">
 
-<img width="606" alt="image" src="https://user-images.githubusercontent.com/42023141/213871562-7725e745-372a-4621-8107-66004c23f409.png">
+<img width="610" alt="image" src="https://user-images.githubusercontent.com/42023141/213871840-9216adb7-a07a-48da-95b0-30c198045bf3.png">
 
 # Installation
 Download alfredworkflow. Double click to install it.
